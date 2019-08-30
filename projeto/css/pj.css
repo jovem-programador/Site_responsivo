@@ -1,0 +1,17 @@
+section{
+    padding-top: 49px;
+    padding-bottom: 15px;
+    min-height: 50vh;
+}
+nav{
+    font-size: 20px;
+}
+.link1{
+    color: white;
+}
+.link1:hover{
+    color: white;
+}
+body{
+    background: whitesmoke;
+}
